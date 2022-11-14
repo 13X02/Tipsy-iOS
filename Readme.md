@@ -1,3 +1,3 @@
 # Tipsy Application
 
-This is very use full app
+This App is used to split tip between Friends
